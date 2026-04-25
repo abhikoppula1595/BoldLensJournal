@@ -76,6 +76,11 @@ footer {
   padding: 60px 20px;
 }
 
+.logo {
+  width: 120px;
+  margin-bottom: 20px;
+}
+
 html {
   scroll-behavior: smooth;
 }
