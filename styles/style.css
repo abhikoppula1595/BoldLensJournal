@@ -77,7 +77,11 @@ footer {
 }
 
 .logo {
-  width: 120px;
+  width: min(420px, 90vw);
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 20px;
 }
 
